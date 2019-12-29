@@ -71,7 +71,3 @@ button:focus {
     outline: 0;
 }
 
-analyze-button::hover{
-    background-color: #00ebc7;
-}
-

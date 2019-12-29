@@ -74,6 +74,7 @@ button:focus {
 
 #result-label{
     font-size: 1.2rem;
+    padding: 2px;
 }
 
 footer {
